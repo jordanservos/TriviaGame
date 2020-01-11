@@ -263,10 +263,10 @@ $(document).ready(function() {
         }
 
         if (questionCount == (masterQuestions.length - 1)) {
-            setTimeout(scoreboard, 1000);
+            setTimeout(scoreboard, 6000);
         } else {
             questionCount++;
-            setTimeout(newQuestion, 1000);
+            setTimeout(newQuestion, 6000);
         }
     }
 
