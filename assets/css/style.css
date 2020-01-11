@@ -1,0 +1,23 @@
+.jumbotron {
+    background: url('../images/alexandru-zdrobau-WR7skZ8B4tU-unsplash.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+h3 {
+    font-family: D-DIN, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+}
+
+#trivia h3 {
+    margin-left: 345px;
+    color: #ec184d;
+}
+
+.btn-lg {
+    margin-top: 50px;
+    background-color: #ec184d !important;
+    color: white !important;
+    font-weight: bold;
+}
